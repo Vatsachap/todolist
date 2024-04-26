@@ -16,6 +16,7 @@ public static void main(String[] args) {
   System.out.println("4. Exit");
   System.out.println("Choose an option from 1-4");
   int Option = scan.nextInt(); 
+  // bull
   scan.nextLine();
   switch (Option) {
     case 1:
